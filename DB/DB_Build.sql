@@ -20,7 +20,7 @@ CREATE TABLE CandidateProfile (
     OverallMatchScore DOUBLE,
     Skills TEXT,
     TP1Comment TEXT,
-    TP2Comment VARCHAR(100),
+    TP2Comment TEXT,
     Status VARCHAR(100),
     IsJoined CHAR(1),
     DueDate DATETIME,
