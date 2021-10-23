@@ -1,0 +1,9 @@
+Codefest-Serviceone:--->Name of Bean stalk Application.
+
+http://codefestserviceone-env.eba-jrgdb2mx.us-east-1.elasticbeanstalk.com/jobProfile/fetch -Get
+
+URL:
+http://codefestserviceone-env.eba-jrgdb2mx.us-east-1.elasticbeanstalk.com/jobProfile/modify --Post
+
+Request Body:
+{"jobID":"1","jobName":"java lead","goodToHaveSkills":"Mulsoft-1","mandatorySkills":"java-2"}

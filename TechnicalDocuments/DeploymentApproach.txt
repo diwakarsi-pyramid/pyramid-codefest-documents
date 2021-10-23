@@ -1,0 +1,5 @@
+1. Spring Boot application will be deployed as Elastic Bean service.
+
+2. .Net Core Bundle will get deploy using Elastic Bean Service.
+
+3. Angular JS code need to be deployed using CloundFront or EC2.
